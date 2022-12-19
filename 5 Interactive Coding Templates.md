@@ -1,7 +1,7 @@
 # 5.0 MATLAB Live Script and Jupyter Notebook Tutorials
 
 ## 5.0.1 M0_HowToCreate.mlx & J0_HowToCreate.ipynb
-M0_HowToCreate.mlx covers how to create MATLAB Live Scripts. J0_HowToCreate.ipynb covers how to use Google Colab to create Jupyter Notebooks.
+[M0_HowToCreate.mlx](https://github.com/ashleefv/ChESS2022/blob/master/5%20Interactive%20Coding%20Templates/M0_HowToCreate.mlx) covers how to create MATLAB Live Scripts. [J0_HowToCreate.ipynb](https://github.com/ashleefv/ChESS2022/blob/master/5%20Interactive%20Coding%20Templates/J0_HowToCreate.ipynb) covers how to use Google Colab to create Jupyter Notebooks.
 
 # 5.1 Linear Equations
 ## 5.1.1 M1_MassBalance.mlx (separate solution file available)
