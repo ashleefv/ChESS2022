@@ -1,7 +1,7 @@
 # ChESS2022
-Numerical Problem Solving across the Curriculum with Python and MATLAB Using Interactive Coding TemplateS
+Numerical Problem Solving across the Curriculum with Python and MATLAB Using Interactive Coding Templates
 
-Workshop materials from the 2022 Chemical Engineering Summer School
+Workshop materials from the [2022 Chemical Engineering Summer School](https://www.aiche.org/conferences/faculty-chemical-engineering-summer-school/2022)
 
 ## Description
 
