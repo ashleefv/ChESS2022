@@ -17,6 +17,9 @@ By the end of this workshop, participants will be able to
 - Robert Hesketh
 - Matthew Stuber
 
+## Authors
+Ashlee N. Ford Versypt, Robert Hesketh, Austin Johns, Matthew Stuber 
+
 ## Materials
 - [0 Pre-Workshop Set-Up](https://github.com/ashleefv/ChESS2022/blob/master/0%20Pre-Workshop%20Set-Up.pdf)
 Instructions for downloading .mlx files and .ipynb files from Google Drive and for opening them in MATLAB, MATLAB Online, or Google Colab.
@@ -31,4 +34,4 @@ These are the main files intended to be shared for the workshop
 - [6 Shareable Handout Numerical Problem Solving across the Curriculum with Python and MATLAB Using Interactive Coding Templates](https://github.com/ashleefv/ChESS2022/blob/master/6%20Shareable%20Handout%20Numerical%20Problem%20Solving%20across%20the%20Curriculum%20with%20Python%20and%20MATLAB%20Using%20Interactive%20Coding%20Templates.pdf)
 This pdf document is intended to serve as a shareable handout with all workshop materials directly attached to this file, making it shareable as one file.
 
-(c) 2022 Ashlee N. Ford Versypt, Robert Hesketh, Matthew Stuber, Austin Johns
+(c) 2022 Ashlee N. Ford Versypt, Robert Hesketh, Austin Johns, Matthew Stuber 
