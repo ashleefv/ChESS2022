@@ -3,6 +3,10 @@ Numerical Problem Solving across the Curriculum with Python and MATLAB Using Int
 
 Workshop materials from the [2022 Chemical Engineering Summer School](https://www.aiche.org/conferences/faculty-chemical-engineering-summer-school/2022)
 
+## ASEE Conference Paper
+
+A. N. Johns, R. P. Hesketh, M. D. Stuber, and A. N. Ford Versypt, Numerical Problem Solving across the Curriculum with Python and MATLAB Using Interactive Coding Templates: A Workshop for Chemical Engineering Faculty, Proceedings of the ASEE Annual Conference, Baltimore, MD, 2023. [https://peer.asee.org/43749](https://peer.asee.org/43749). 
+
 ## Description
 
 This workshop explores Python and MATLAB templates and interactive coding notebooks for use throughout chemical engineering core courses and computational thinking as a problem solving approach. Students do not need prior Python or MATLAB programming to use these templates. 
